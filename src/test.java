@@ -8,6 +8,9 @@ public class test {
         int a=3;
         int b=4;
         System.out.println(a+b);
+        //mochix/mcdev01-begin
+        String io="ds";
+        //mochix/mcdev01-end
         System.out.println("dev02 add");
         System.out.println("dev02 down");
     }
