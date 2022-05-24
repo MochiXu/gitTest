@@ -13,5 +13,6 @@ public class test {
         //mochix/mcdev01-end
         System.out.println("dev02 add");
         System.out.println("dev02 down");
+        System.out.println("another");
     }
 }
