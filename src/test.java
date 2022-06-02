@@ -42,5 +42,8 @@ public class test {
                 System.out.println("You Know Me??");
         }
 
+        for (int k=0;k<1  ;k++){
+            System.out.println("Hi");
+        }
     }
 }
