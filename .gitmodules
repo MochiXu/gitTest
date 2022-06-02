@@ -1,0 +1,3 @@
+[submodule "GitFlow"]
+	path = GitFlow
+	url = git@github.com:MochiXu/GitFlow.git
