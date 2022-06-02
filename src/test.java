@@ -38,5 +38,9 @@ public class test {
         //输出压缩->解压缩之后的图像
         utils.writeImage(decompressed,"/Users/mochix/Desktop/boot/untitled/src/current_face.jpg");
 
+        for (int i=     0 ;i<     10;i++){
+                System.out.println("You Know Me??");
+        }
+
     }
 }
